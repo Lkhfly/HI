@@ -19,7 +19,7 @@ const serverURL = ""; //enable for dev mode
 //copy the number only and paste it in the serverURL in place of PORT, e.g.: const serverURL = "http://ov-research-4.uwaterloo.ca:3000";
 
 const fetch = require("node-fetch");
-const let = "Khoi Le"
+const hanoi = "H";
 const opacityValue = 0.9;
 
 const theme = createTheme({
